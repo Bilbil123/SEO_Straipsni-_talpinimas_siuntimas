@@ -1,0 +1,74 @@
+{
+    "promotions": {
+        "Sausio išpardavimas": {
+            "title": "🎯 Sausio išpardavimas - Knygoms iki -40%",
+            "template": "Pradėkite metus su naujomis knygomis! Visoms knygoms taikomos nuolaidos iki 40%. Atnaujinkite savo knygų kolekciją už ypatingą kainą.",
+            "notify_date": "01-02"
+        },
+        "Valentino diena": {
+            "title": "❤️ Valentino dienos pasiūlymas - Romanams -30%",
+            "template": "Valentino dienos proga kviečiame įsigyti romantinių knygų su 30% nuolaida. Išsirinkite iš gausaus romanų, meilės istorijų ir poezijos knygų asortimento.",
+            "notify_date": "02-14"
+        },
+        "Kovo 8-oji": {
+            "title": "🌸 Moters dienos proga - Bestseleriai moterims -25%",
+            "template": "Tarptautinės moters dienos proga siūlome ypatingą nuolaidą moterų literatūrai. Visoms knygoms moterims - 25% nuolaida. Biografijos, romanai, saviugdos knygos ir kiti populiariausi žanrai.",
+            "notify_date": "03-08"
+        },
+        "Knygnešio diena": {
+            "title": "📚 Knygnešio diena - Lietuvių literatūrai -35%",
+            "template": "Knygnešio dienos proga kviečiame prisiminti lietuvių literatūros svarbą. Visoms lietuvių autorių knygoms taikoma 35% nuolaida. Atraskite lietuvių literatūros klasiką ir šiuolaikinius autorius.",
+            "notify_date": "03-16"
+        },
+        "Velykos": {
+            "title": "🐣 Velykų nuolaidos - Vaikų knygoms -30%",
+            "template": "Šv. Velykų proga siūlome ypatingą nuolaidą vaikų literatūrai. Visoms vaikų knygoms taikoma 30% nuolaida. Pradžiuginkite mažuosius skaitytojus naujomis knygomis.",
+            "notify_date": "03-31"
+        },
+        "Motinos diena": {
+            "title": "💝 Motinos dienai - Išskirtinės knygos mamai -35%",
+            "template": "Artėjant Motinos dienai siūlome ypatingą nuolaidą knygoms, kurios pradžiugins kiekvieną mamą. Grožinei literatūrai, kulinarijos ir saviugdos knygoms taikoma 35% nuolaida.",
+            "notify_date": "05-05"
+        },
+        "Tėvo diena": {
+            "title": "👔 Tėvo dienai - Vyriška literatūra -30%",
+            "template": "Tėvo dienos proga siūlome nuolaidą knygoms, kurios sudomins kiekvieną tėtį. Biografijoms, istorinėms knygoms, detektyvams ir populiariajai literatūrai taikoma 30% nuolaida.",
+            "notify_date": "06-02"
+        },
+        "Joninės": {
+            "title": "🌿 Joninių išpardavimas - Vasaros skaitiniai -40%",
+            "template": "Joninių proga ruošiame ypatingą vasaros skaitinių išpardavimą. Visoms vasaros sezono knygoms taikoma 40% nuolaida. Idealu skaityti gamtoje ar prie laužo!",
+            "notify_date": "06-24"
+        },
+        "Mokslo metų pradžia": {
+            "title": "📚 Rugsėjo 1-oji - Mokymuisi -40%",
+            "template": "Mokslo metų pradžios proga siūlome ypatingą nuolaidą mokymuisi skirtoms knygoms. Vadovėliams, pratyboms ir papildomai literatūrai taikoma 40% nuolaida.",
+            "notify_date": "09-01"
+        },
+        "Mokytojų diena": {
+            "title": "🍎 Mokytojų dienai - Edukacinė literatūra -35%",
+            "template": "Tarptautinės mokytojų dienos proga siūlome ypatingą nuolaidą edukacinei literatūrai. Pedagoginėms knygoms, metodinei medžiagai ir profesinei literatūrai taikoma 35% nuolaida.",
+            "notify_date": "10-05"
+        },
+        "Helovinas": {
+            "title": "🎃 Helovino skaitymai - Mistikai ir siaubui -30%",
+            "template": "Helovino proga siūlome ypatingą nuolaidą mistinėms ir siaubo knygoms. Visoms šio žanro knygoms taikoma 30% nuolaida. Pasinerkite į mistišką skaitymą tamsiaisiais metų vakarais.",
+            "notify_date": "10-31"
+        },
+        "Juodasis penktadienis": {
+            "title": "⚡ Juodasis penktadienis - Visoms knygoms iki -50%",
+            "template": "Juodojo penktadienio proga skelbiame didžiausias metų nuolaidas. Visoms knygoms taikomos nuolaidos iki 50%. Nepraleiskite progos įsigyti svajonių knygas!",
+            "notify_date": "11-24"
+        },
+        "Kalėdos": {
+            "title": "🎄 Kalėdinės dovanos - Knygoms iki -45%",
+            "template": "Kalėdų proga siūlome ypatingas nuolaidas visoms knygoms. Dovanų idėjoms, šventinėms knygoms ir visam asortimentui taikomos nuolaidos iki 45%. Pradžiuginkite artimuosius prasmingomis dovanomis!",
+            "notify_date": "12-24"
+        },
+        "Naujieji metai": {
+            "title": "✨ Naujametinis išpardavimas - Bestseleriai -40%",
+            "template": "Naujųjų metų proga siūlome ypatingą nuolaidą populiariausioms metų knygoms. Visiems 2023 metų bestseleriams taikoma 40% nuolaida. Pradėkite metus su įdomiausiomis istorijomis!",
+            "notify_date": "12-31"
+        }
+    }
+} 

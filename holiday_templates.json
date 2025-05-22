@@ -1,0 +1,44 @@
+{
+    "promotions": {
+        "Kalėdos": {
+            "title": "🎄 Kalėdinė knygų akcija",
+            "template": "Artėjant gražiausioms metų šventėms, Knygospigiau.lt dovanoja Jums 20% nuolaidą visoms knygoms! Išsirinkite dovanas sau ir artimiesiems.",
+            "notify_date": "12-18"
+        },
+        "Nauji metai": {
+            "title": "🎉 Naujametinė knygų akcija",
+            "template": "Pasitikite Naujuosius metus su nauja knyga! 15% nuolaida visoms naujausioms knygoms.",
+            "notify_date": "12-25"
+        },
+        "Valentino diena": {
+            "title": "❤️ Meilės dienai - romantiškos knygos",
+            "template": "Šv. Valentino dienos proga - 25% nuolaida visoms romantiškoms knygoms! Atraskite meilės istorijas.",
+            "notify_date": "02-07"
+        },
+        "Velykos": {
+            "title": "🐰 Velykinė knygų šventė",
+            "template": "Velykų proga - iki 25% nuolaida pasirinktoms knygoms! Pradžiuginkite save ir artimuosius.",
+            "notify_date": "04-02"
+        },
+        "Joninės": {
+            "title": "🌿 Joninių skaitymo naktis",
+            "template": "Trumpiausios nakties proga - 30% nuolaida visoms knygoms! Specialus Joninių išpardavimas.",
+            "notify_date": "06-17"
+        },
+        "Rugsėjo 1-oji": {
+            "title": "📚 Mokslo metų pradžiai",
+            "template": "Mokslo metų pradžios proga - 30% nuolaida visoms vaikų ir mokomųjų knygų kategorijoms!",
+            "notify_date": "08-25"
+        },
+        "Knygų diena": {
+            "title": "📖 Tarptautinė knygų diena",
+            "template": "Tarptautinės knygų dienos proga - perkant vieną knygą, antrą gaunate dovanų!",
+            "notify_date": "04-16"
+        },
+        "Moters diena": {
+            "title": "🌷 Tarptautinė moters diena",
+            "template": "Tarptautinės moters dienos proga - 25% nuolaida moterų literatūrai ir biografijoms!",
+            "notify_date": "03-01"
+        }
+    }
+} 

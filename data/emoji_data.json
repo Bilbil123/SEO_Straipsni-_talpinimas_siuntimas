@@ -1,0 +1,230 @@
+{
+  "categories": {
+    "smileys": {
+      "name": "Veidukai",
+      "emojis": {
+        "😊": "Šypsena",
+        "😂": "Juokas iki ašarų",
+        "🥰": "Mylintis veidas",
+        "😍": "Mylintis veidas su širdelėmis",
+        "😎": "Veidas su akiniais",
+        "🤩": "Žvaigždėtos akys",
+        "😋": "Skanu",
+        "🤗": "Apkabinimas",
+        "🤔": "Mąstantis veidas",
+        "🤫": "Tylintis veidas",
+        "😴": "Miegantis veidas",
+        "😇": "Angelas",
+        "🥳": "Vakarėlis",
+        "😌": "Ramus veidas",
+        "😉": "Mirktelėjimas"
+      }
+    },
+    "hearts": {
+      "name": "Širdelės",
+      "emojis": {
+        "❤️": "Raudona širdelė",
+        "🧡": "Oranžinė širdelė",
+        "💛": "Geltona širdelė",
+        "💚": "Žalia širdelė",
+        "💙": "Mėlyna širdelė",
+        "💜": "Violetinė širdelė",
+        "🖤": "Juoda širdelė",
+        "🤍": "Balta širdelė",
+        "💝": "Širdelė su kaspinu",
+        "💖": "Spindinti širdelė",
+        "💗": "Auganti širdelė",
+        "💓": "Plakanti širdelė",
+        "💕": "Dvi širdelės"
+      }
+    },
+    "nature": {
+      "name": "Gamta",
+      "emojis": {
+        "🌺": "Gėlė",
+        "🌸": "Vyšnios žiedas",
+        "🌼": "Geltona gėlė",
+        "🌻": "Saulėgrąža",
+        "🌹": "Rožė",
+        "🌷": "Tulpė",
+        "🌱": "Daigas",
+        "🌿": "Žalumynai",
+        "🍀": "Dobilas",
+        "🌳": "Medis",
+        "🌴": "Palma",
+        "🌵": "Kaktusas",
+        "🍁": "Klevo lapas",
+        "🍂": "Krintantis lapas"
+      }
+    },
+    "celebration": {
+      "name": "Šventės",
+      "emojis": {
+        "🎄": "Kalėdų eglutė",
+        "🎅": "Kalėdų senelis",
+        "🎁": "Dovana",
+        "🎉": "Vakarėlio popperis",
+        "🎊": "Konfeti",
+        "🎈": "Balionas",
+        "🎂": "Tortas",
+        "🍰": "Pyragas",
+        "🧁": "Keksiukas",
+        "🕯️": "Žvakė",
+        "✨": "Žvaigždutės",
+        "🎆": "Fejerverkai",
+        "🎇": "Bengališkos ugnys"
+      }
+    },
+    "books": {
+      "name": "Knygos",
+      "emojis": {
+        "📚": "Knygų krūva",
+        "📖": "Atvira knyga",
+        "📕": "Raudona knyga",
+        "📗": "Žalia knyga",
+        "📘": "Mėlyna knyga",
+        "📙": "Oranžinė knyga",
+        "📓": "Užrašų knygelė",
+        "📔": "Dekoruota knyga",
+        "📒": "Užrašinė",
+        "📑": "Žymekliai",
+        "🔖": "Knygos žymeklis",
+        "✏️": "Pieštukas",
+        "📝": "Užrašai"
+      }
+    },
+    "holidays": {
+      "emojis": {
+        "🎄": "Christmas tree",
+        "🎅": "Santa Claus",
+        "🎁": "wrapped gift",
+        "🎆": "fireworks",
+        "🎇": "sparkler",
+        "✨": "sparkles",
+        "🎉": "party popper",
+        "🎊": "confetti ball",
+        "🎈": "balloon"
+      }
+    },
+    "veidukai": {
+      "name": "Veidukai ir emocijos",
+      "emojis": {
+        "😊": "Besišypsantis veidas",
+        "😃": "Plačiai besišypsantis veidas",
+        "😄": "Besišypsantis veidas su besijuokiančiomis akimis",
+        "🥰": "Besišypsantis veidas su širdutėmis",
+        "😍": "Besišypsantis veidas su širdutėmis akyse",
+        "🤗": "Apkabinantis veidas",
+        "😎": "Besišypsantis veidas su akiniais nuo saulės",
+        "🤔": "Mąstantis veidas",
+        "😉": "Mirkčiojantis veidas",
+        "🎭": "Teatrinės kaukės"
+      }
+    },
+    "gestai": {
+      "name": "Gestai ir rankos",
+      "emojis": {
+        "👋": "Mojuojanti ranka",
+        "��": "Rankų paspaudimas",
+        "👍": "Nykštys aukštyn",
+        "👌": "OK ženklas",
+        "✌️": "Pergalės ženklas",
+        "🙏": "Sudėtos rankos",
+        "👏": "Plojančios rankos",
+        "💪": "Stipri ranka",
+        "🤲": "Atviros rankos",
+        "✍️": "Rašanti ranka"
+      }
+    },
+    "knygos": {
+      "name": "Knygos ir skaitymas",
+      "emojis": {
+        "📚": "Knygų krūva",
+        "📖": "Atverta knyga",
+        "📕": "Raudona knyga",
+        "📗": "Žalia knyga",
+        "📘": "Mėlyna knyga",
+        "📙": "Oranžinė knyga",
+        "🔖": "Knygos žymeklis",
+        "📑": "Žymėjimo skirtukai",
+        "✏️": "Pieštukas",
+        "📝": "Užrašai"
+      }
+    },
+    "dovanos": {
+      "name": "Dovanos ir šventės",
+      "emojis": {
+        "🎁": "Supakuota dovana",
+        "🎀": "Kaspinas",
+        "🎊": "Konfeti",
+        "🎉": "Šventinis popelis",
+        "🎈": "Balionas",
+        "🎂": "Gimtadienio tortas",
+        "🏆": "Trofėjus",
+        "🌟": "Žvaigždė",
+        "✨": "Kibirkštys",
+        "💫": "Žvaigždutės"
+      }
+    },
+    "simboliai": {
+      "name": "Simboliai ir ženklai",
+      "emojis": {
+        "❤️": "Raudona širdis",
+        "💖": "Spinduliuojanti širdis",
+        "💝": "Širdis su kaspinu",
+        "✨": "Kibirkštys",
+        "⭐": "Žvaigždė",
+        "🌟": "Šviečianti žvaigždė",
+        "💯": "100 taškų",
+        "✅": "Žalia varnelė",
+        "❗": "Raudonas šauktukas",
+        "💬": "Kalbos burbulas"
+      }
+    },
+    "prekyba": {
+      "name": "Prekyba ir pinigai",
+      "emojis": {
+        "🛍️": "Pirkinių krepšiai",
+        "💰": "Pinigų maišas",
+        "💳": "Kredito kortelė",
+        "🏷️": "Kainų etiketė",
+        "💵": "Dolerio banknotas",
+        "💶": "Euro banknotas",
+        "🏪": "Parduotuvė",
+        "🛒": "Pirkinių vežimėlis",
+        "📦": "Pakuotė",
+        "🎫": "Bilietas"
+      }
+    },
+    "technologija": {
+      "name": "Technologija",
+      "emojis": {
+        "💻": "Nešiojamas kompiuteris",
+        "📱": "Mobilusis telefonas",
+        "📧": "El. paštas",
+        "🔍": "Paieškos lupa",
+        "🖥️": "Stalinis kompiuteris",
+        "⌨️": "Klaviatūra",
+        "🖱️": "Kompiuterio pelė",
+        "🔔": "Skambutis",
+        "📲": "Mobilusis su rodykle",
+        "🔗": "Nuoroda"
+      }
+    },
+    "sventes": {
+      "name": "Šventės ir sezonai",
+      "emojis": {
+        "🎄": "Kalėdų eglutė",
+        "🎅": "Kalėdų senelis",
+        "🐰": "Velykų kiškutis",
+        "🥚": "Velykų kiaušinis",
+        "🍁": "Rudens lapas",
+        "❄️": "Snaigė",
+        "🌸": "Sakuros žiedas",
+        "🌺": "Hibisko žiedas",
+        "🌞": "Saulė su veidu",
+        "🌙": "Pusmėnulis"
+      }
+    }
+  }
+} 

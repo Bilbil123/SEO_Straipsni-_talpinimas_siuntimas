@@ -1,0 +1,8 @@
+2025-04-19 21:04:57,827 - INFO - 📨 Pradedamas siuntimas (2 adresai)...
+2025-04-19 21:04:59,009 - INFO - ✅ Laiškas išsiųstas: labas@knygospigiau.lt
+2025-04-19 21:04:59,088 - INFO - ⏳ Pauzė 125.0 sek.
+2025-04-19 21:06:33,744 - INFO - 📨 Pradedamas siuntimas (2 adresai)...
+2025-04-19 21:06:34,814 - INFO - ✅ Laiškas išsiųstas: labas@knygospigiau.lt
+2025-04-19 21:06:34,892 - INFO - ⏳ Pauzė 125.0 sek.
+2025-04-19 21:08:40,990 - INFO - ✅ Laiškas išsiųstas: info@bilger.lt
+2025-04-19 21:08:41,074 - INFO - ✅ Visi laiškai išsiųsti.
